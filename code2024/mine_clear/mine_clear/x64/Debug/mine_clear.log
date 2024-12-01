@@ -1,0 +1,4 @@
+﻿  test.c
+C:\C_language\code2024\mine_clear\mine_clear\test.c(28,14): warning C4048: “char (*)[10]”和“char [11][11]”数组的下标不同
+C:\C_language\code2024\mine_clear\mine_clear\test.c(28,22): warning C4048: “char (*)[11]”和“char [10][10]”数组的下标不同
+  mine_clear.vcxproj -> C:\C_language\code2024\mine_clear\x64\Debug\mine_clear.exe

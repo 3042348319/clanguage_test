@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\30423\\source\\repos\\SelectSort_10_31\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{874C28D4-405D-4B07-81E8-B898377E40E2}|SelectSort_10_31\\SelectSort_10_31.vcxproj|C:\\Users\\30423\\source\\repos\\SelectSort_10_31\\SelectSort_10_31\\test_4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{874C28D4-405D-4B07-81E8-B898377E40E2}|SelectSort_10_31\\SelectSort_10_31.vcxproj|solutionrelative:SelectSort_10_31\\test_4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874C28D4-405D-4B07-81E8-B898377E40E2}|SelectSort_10_31\\SelectSort_10_31.vcxproj|C:\\Users\\30423\\source\\repos\\SelectSort_10_31\\SelectSort_10_31\\test_3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{874C28D4-405D-4B07-81E8-B898377E40E2}|SelectSort_10_31\\SelectSort_10_31.vcxproj|solutionrelative:SelectSort_10_31\\test_3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874C28D4-405D-4B07-81E8-B898377E40E2}|SelectSort_10_31\\SelectSort_10_31.vcxproj|C:\\Users\\30423\\source\\repos\\SelectSort_10_31\\SelectSort_10_31\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{874C28D4-405D-4B07-81E8-B898377E40E2}|SelectSort_10_31\\SelectSort_10_31.vcxproj|solutionrelative:SelectSort_10_31\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874C28D4-405D-4B07-81E8-B898377E40E2}|SelectSort_10_31\\SelectSort_10_31.vcxproj|C:\\Users\\30423\\source\\repos\\SelectSort_10_31\\SelectSort_10_31\\test_2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{874C28D4-405D-4B07-81E8-B898377E40E2}|SelectSort_10_31\\SelectSort_10_31.vcxproj|solutionrelative:SelectSort_10_31\\test_2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test_4.c",
+              "DocumentMoniker": "C:\\Users\\30423\\source\\repos\\SelectSort_10_31\\SelectSort_10_31\\test_4.c",
+              "RelativeDocumentMoniker": "SelectSort_10_31\\test_4.c",
+              "ToolTip": "C:\\Users\\30423\\source\\repos\\SelectSort_10_31\\SelectSort_10_31\\test_4.c",
+              "RelativeToolTip": "SelectSort_10_31\\test_4.c",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-31T15:53:50.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test_3.c",
+              "DocumentMoniker": "C:\\Users\\30423\\source\\repos\\SelectSort_10_31\\SelectSort_10_31\\test_3.c",
+              "RelativeDocumentMoniker": "SelectSort_10_31\\test_3.c",
+              "ToolTip": "C:\\Users\\30423\\source\\repos\\SelectSort_10_31\\SelectSort_10_31\\test_3.c",
+              "RelativeToolTip": "SelectSort_10_31\\test_3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-31T14:42:48.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "test_2.c",
+              "DocumentMoniker": "C:\\Users\\30423\\source\\repos\\SelectSort_10_31\\SelectSort_10_31\\test_2.c",
+              "RelativeDocumentMoniker": "SelectSort_10_31\\test_2.c",
+              "ToolTip": "C:\\Users\\30423\\source\\repos\\SelectSort_10_31\\SelectSort_10_31\\test_2.c*",
+              "RelativeToolTip": "SelectSort_10_31\\test_2.c*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-31T14:12:42.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "test.c",
+              "DocumentMoniker": "C:\\Users\\30423\\source\\repos\\SelectSort_10_31\\SelectSort_10_31\\test.c",
+              "RelativeDocumentMoniker": "SelectSort_10_31\\test.c",
+              "ToolTip": "C:\\Users\\30423\\source\\repos\\SelectSort_10_31\\SelectSort_10_31\\test.c",
+              "RelativeToolTip": "SelectSort_10_31\\test.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-31T12:52:57.56Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
